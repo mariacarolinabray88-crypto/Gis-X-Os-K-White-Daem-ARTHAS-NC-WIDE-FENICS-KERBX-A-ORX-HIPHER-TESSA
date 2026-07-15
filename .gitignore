@@ -213,6 +213,7 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- ESCLESIONE AGENTI SEGRETI GIS X-OS ---
+white_daemons/plix_dragon/
+white_daemons/cybil_idsec/
 
-# Streamlit
-.streamlit/secrets.toml
