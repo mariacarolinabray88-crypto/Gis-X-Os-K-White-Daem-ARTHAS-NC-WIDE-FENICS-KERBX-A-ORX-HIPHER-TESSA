@@ -1,6 +1,4 @@
-@alexisbcook Ho completato l'ottimizzazione del Capstone Project basato sulla competizione Kaggle, effettuando la sottomissione entro i termini. 
 
-Ho aggiunto 7 commenti dettagliati sotto al progetto che rappresentano i lavori ufficiali completati al meglio delle mie attuali competenze. Ho inoltre integrato il lavoro e apportato le ultime modifiche tramite Google Colab, che ho documentato nella sezione *Future Work* insieme ai link di approfondimento scientifici. Di seguito le lascio il link del progetto con i commenti e il lavoro modificato!Spero sia di vostro gradimento. Buona visione :) 
 
 https://www.kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/new-writeup-1781998584673
 
